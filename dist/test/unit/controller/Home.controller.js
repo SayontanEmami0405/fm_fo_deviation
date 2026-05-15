@@ -1,0 +1,2 @@
+sap.ui.define(["com/emami/fmfodeviation/controller/Home.controller"],function(o){"use strict";QUnit.module("Home Controller");QUnit.test("I should test the Home controller",function(e){var t=new o;t.onInit();e.ok(t)})});
+//# sourceMappingURL=Home.controller.js.map

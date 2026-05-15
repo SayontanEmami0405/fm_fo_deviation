@@ -1,0 +1,19 @@
+.bgTitle {
+    border: none;
+    background: rgb(243, 233, 228) !important;
+    margin: 0;
+}
+
+#container-com\.emami\.fmfodeviation---Home--idTabOuter--header,
+#application-zfmfodev-manage-component---Home--idTabOuter--header {
+    border: none;
+    background: rgb(225, 190, 231) !important;
+    margin: 0;
+}
+
+#container-com\.emami\.fmfodeviation---Home--idTabInner--header,
+#application-zfmfodev-manage-component---Home--idTabInner--header {
+    border: none;
+    background: rgb(218, 247, 166) !important;
+    margin: 0;
+}
